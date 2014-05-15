@@ -7,7 +7,17 @@ APItools is a web application that stores requests and lets you track, transform
 
 ### Installation
 
-Simply add the .h and .m files to your project (Cocoapods support coming soon)
+- Using [Cocoapods](http://cocoapods.org/):
+
+Just add this line to your `Podfile`:
+
+```
+pod 'JSTAPIToolsURLProtocol', '~> 1.0.0'
+```
+
+- Manually:
+
+Simply add the files `JSTAPIToolsURLProtocol.h` and `JSTAPIToolsURLProtocol.m` to your project.
 
 ### Usage
 
