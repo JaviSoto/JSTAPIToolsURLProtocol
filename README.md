@@ -1,7 +1,8 @@
 JSTAPIToolsURLProtocol
 ======================
 
-Easily make your application redirects some of the HTTP(s) requests it makes to your https://www.apitools.com/ account.
+`JSTAPIToolsURLProtocol` allows you to easily make your application redirects some of the HTTP(s) requests it makes to your https://www.apitools.com/ account.
+APItools is a web application that stores requests and lets you track, transform and analyze the traffic between your app and the APIs it uses.
 
 ### Installation
 
