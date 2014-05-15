@@ -12,7 +12,7 @@
 
 /**
  Whenever `JSTAPIToolsURLProtocol` receives an http or https request, it will call this method to query for the APItools host to use instead.
- E.g. If a request is sent to https://api.twitter.com/2/users/xxxx it will call this method with @"api.twitter.com".
+ E.g. If a request is sent to https://api.twitter.com/1.1/statuses/user_timeline.json it will call this method with @"api.twitter.com".
  - To no forward the request to APItools, this method must return nil.
  - To formward the request to APItools, return your appropiate apitools hostname associated with the api.twitter.com host, like @"tw-ghzbf45ab8cz.my.apitools.com".
  @note The implementation of this methd must be thread-safe since it will be invoked from arbitrary background threads.
