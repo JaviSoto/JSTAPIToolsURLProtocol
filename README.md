@@ -43,7 +43,7 @@ Simply add the .h and .m files to your project (Cocoapods support coming soon)
 @end
 ```
 
-This will make your application forwards all its Twitter and Facebook API requests to your APItools account so you can track them, transform them and analyze them.
+This will make your application forward all of its Twitter and Facebook API requests to your APItools account so you can track them, transform them and analyze them.
 
 ### Compatibility
 
