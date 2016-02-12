@@ -7,7 +7,7 @@ APItools is a web application that stores requests and lets you track, transform
 
 ### Installation
 
-- Using [Cocoapods](http://cocoapods.org/):
+- Using [CocoaPods](http://cocoapods.org/):
 
 Just add this line to your `Podfile`:
 
